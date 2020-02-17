@@ -5,5 +5,9 @@
   "repository": "https://github.com/hayaokimura-sandbox/react-sandbox.git",
   "author": "Hayao Kimura <asahiprop01@gmail.com>",
   "license": "MIT",
-  "private": true
+  "private": true,
+  "dependencies": {
+    "webpack": "^4.41.6",
+    "webpack-cli": "^3.3.11"
+  }
 }
